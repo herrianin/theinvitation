@@ -26,8 +26,8 @@
   font-family: 'Clicker Script', cursive;
   top: 0;
   .invitation {
-    width: 100%;
-    max-width: 80%;
+    width: 85%;
+    max-width: 400px;
     position: absolute;
     top: 50%;
     left: 50%;
